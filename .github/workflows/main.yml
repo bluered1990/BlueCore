@@ -28,4 +28,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: BlueCore
-          path: target/*.jar
+          path: BlueCore/target/*.jar
