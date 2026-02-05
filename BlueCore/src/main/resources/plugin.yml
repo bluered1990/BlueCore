@@ -1,0 +1,7 @@
+name: BlueCore
+version: 1.0
+main: me.blueb8h.bluecore.BlueCore
+api-version: 1.20
+commands:
+  spawn:
+  setspawn:
